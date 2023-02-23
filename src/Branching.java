@@ -14,4 +14,8 @@ public class Branching {
 	 public void fun() {
 		 System.out.println("How are you");
 	 }
+	 
+	 public void HowAReYou() {
+		 System.out.println("How are you");
+}
 }
