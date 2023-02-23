@@ -10,4 +10,8 @@ public class Branching {
 		 System.out.println("I will keep trying and learn if");
 
 }
+	 
+	 public void fun() {
+		 System.out.println("How are you");
+	 }
 }
