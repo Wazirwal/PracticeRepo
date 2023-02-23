@@ -18,4 +18,7 @@ public class Branching {
 	 public void HowAReYou() {
 		 System.out.println("How are you");
 }
+	 public void IamLearning() {
+		 System.out.println("Alhamdulellah");
+	 }
 }
